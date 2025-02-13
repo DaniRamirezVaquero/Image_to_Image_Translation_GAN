@@ -6,9 +6,6 @@ This project implements a GAN (Generative Adversarial Network) for generating re
 
 Convert segmented images (simplified representations with color blocks) into photorealistic building facades.
 
-## 🔷 Example
-<img src="./assets/generated_images.gif" alt="Generated Facades" width="800"/>
-
 ## 📊 Dataset
 
 The project uses the CMP Facades dataset from Hugging Face, which contains:
@@ -79,9 +76,6 @@ Feel free to:
 - 💡 Suggest improvements
 - 🔧 Add new features
 - 📝 Documentation
-
-## Author
-- [Daniel Ramírez Vaquero](https://github.com/DaniRamirezVaquero)
 
 ## 📄 License
 This project is licensed under the MIT License.
