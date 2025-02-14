@@ -1,6 +1,7 @@
 # Facade Generator GAN
 
 This project implements a GAN (Generative Adversarial Network) for generating realistic building facades from segmented images. It uses a Pix2Pix architecture with U-Net as the generator and PatchGAN as the discriminator.
+<img src="./assets/generated_images.gif">
 
 ## 🎯 Objective
 
